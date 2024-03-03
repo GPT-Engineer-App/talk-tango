@@ -4,7 +4,7 @@ import { FaPaperPlane, FaSearch, FaRegSmile } from "react-icons/fa";
 import { IoMdPhotos } from "react-icons/io";
 
 const Index = () => {
-  const bgColor = useColorModeValue("gray.100", "gray.700");
+  const bgColor = useColorModeValue("gray.800", "gray.900");
   const borderColor = useColorModeValue("gray.200", "gray.600");
 
   return (
